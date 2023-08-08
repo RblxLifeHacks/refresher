@@ -1,5 +1,5 @@
 
-# This doesnt print CSRF Token, only cookie cuz most of people dont know what to do and they keep only Cookie so thats it lol.
+# This doesnt print CSRF Token, only cookie cuz most of people dont know what to do and they keep only Cookie so thats it lol its almost the same lol. 
 import httpx,re
 from datetime import datetime
 
